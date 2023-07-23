@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Service",
+      "price": 19.99,
+      "features": [
+        "Free basic feature",
+        "Limited access",
+        "24/7 support"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Standard Service",
+      "price": 39.99,
+      "features": [
+        "Full access",
+        "Priority support",
+        "Enhanced security"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Premium Service",
+      "price": 79.99,
+      "features": [
+        "Full access",
+        "24/7 priority support",
+        "Advanced security",
+        "Personalized assistance"
+      ]
+    }
+  ]
